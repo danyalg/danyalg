@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on Fullstack, Mobile, and Modern Web Development, optimizing performance in Kubernetes and infrastructure<br>🌱 I’m currently learning advanced AWS cloud services and microservices architecture.<br> 💬 Ask me about anything related to Javascript/Typescript, ReactJS, NodeJS, web Performance, Kubernetes  <br>⚡ Fun fact: I ❤️ 🐶  manage complex Kubernetes setups and DevOps tasks with the same efficiency and focus as a sleek, well-tuned system! 🚀
+🔭  I’m currently working on Fullstack, Mobile, and Modern Web Development <br>🌱 I’m currently learning advanced AWS cloud services and microservices architecture and AI tools/ Models such as Langchain to build AI based ideas.<br> 💬 Ask me about anything related to Javascript/Typescript, ReactJS, NodeJS, web, Kubernetes <br>⚡ Fun fact: I ❤️ 🐶  explore new era of AI world 🚀
 
 
 ## 🌐 Socials:
